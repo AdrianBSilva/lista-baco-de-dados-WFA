@@ -1,0 +1,9 @@
+C:\Users\104996\Documents\GitHub\lista07\lista07\bin\Debug\lista07.exe.config
+C:\Users\104996\Documents\GitHub\lista07\lista07\bin\Debug\lista07.exe
+C:\Users\104996\Documents\GitHub\lista07\lista07\bin\Debug\lista07.pdb
+C:\Users\104996\Documents\GitHub\lista07\lista07\obj\Debug\lista07.CadastroDeAlunos.resources
+C:\Users\104996\Documents\GitHub\lista07\lista07\obj\Debug\lista07.Properties.Resources.resources
+C:\Users\104996\Documents\GitHub\lista07\lista07\obj\Debug\lista07.csproj.GenerateResource.Cache
+C:\Users\104996\Documents\GitHub\lista07\lista07\obj\Debug\lista07.exe
+C:\Users\104996\Documents\GitHub\lista07\lista07\obj\Debug\lista07.pdb
+C:\Users\104996\Documents\GitHub\lista07\lista07\obj\Debug\lista07.csprojResolveAssemblyReference.cache
